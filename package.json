@@ -1,7 +1,6 @@
 {
   "name": "m-zaharieva.github.io",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/m-zaharieva/m-zaharieva.github.io/issues"
   },
-  "homepage": "https://github.com/m-zaharieva/m-zaharieva.github.io#readme"
+  "homepage": "https://github.com/m-zaharieva/m-zaharieva.github.io#readme",
+  "description": ""
 }
