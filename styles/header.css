@@ -1,0 +1,16 @@
+.navigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: baseline;
+}
+
+.logo img {
+    width: 90px;
+}
+
+.menu ul li {
+    display: inline-block;
+    margin-right: 30px;
+}
