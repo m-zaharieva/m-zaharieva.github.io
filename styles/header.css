@@ -1,9 +1,15 @@
+.nav {
+    background: url('./../assets/images/my-photo.png') no-repeat;
+    background-size: cover;
+}
+
 .navigation {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     padding: 20px;
     align-items: baseline;
+    height: 400px;
 }
 
 .logo img {
