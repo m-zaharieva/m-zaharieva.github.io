@@ -1,5 +1,5 @@
 .nav {
-    background: url('./../assets/images/my-photo.png') no-repeat;
+    background-color: #191919;
     background-size: cover;
 }
 
@@ -19,4 +19,5 @@
 .menu ul li {
     display: inline-block;
     margin-right: 30px;
+    color: #ffffff;
 }
